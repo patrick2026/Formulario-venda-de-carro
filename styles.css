@@ -29,3 +29,8 @@ input[type="date"],
 input[type="file"] {
   width: 400px;
 }
+
+textarea {
+  padding: 10px 5px;
+  width: 400px;
+}
