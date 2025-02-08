@@ -10,6 +10,4 @@ Usando as seguintes tecnologias
 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-HTML e CSS
-Git e Github
->>>>>>> bea5b946aec6c6d35c1c36e836f220fa45d1cdf4
+
