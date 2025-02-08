@@ -46,3 +46,13 @@ textarea {
   color: #fff;
   margin-top: 0;
 }
+
+/* Formulário */
+.form-container {
+  background-color: #fff;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: -62px;
+}
